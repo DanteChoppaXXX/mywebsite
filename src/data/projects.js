@@ -6,7 +6,7 @@ export const projects = [
       "A Raft-based distributed key-value store with automatic leader election and log replication.",
     image: null,
     stack: ["Go", "Raft", "gRPC", "Docker"],
-    github: "https://github.com/yourusername/distributed-kv-store",
+    github: "https://github.com/DanteChoppaxxx/distributed-kv-store",
     demo: null,
     featured: true,
     overview:
@@ -50,7 +50,7 @@ export const projects = [
       "A lightweight CLI packet capture and analysis tool built on raw sockets, with protocol dissection down to TCP/UDP payloads.",
     image: null,
     stack: ["C", "Linux", "libpcap", "TCP/IP"],
-    github: "https://github.com/yourusername/packet-sniffer-toolkit",
+    github: "https://github.com/DanteChoppaxxx/packet-sniffer-toolkit",
     demo: null,
     featured: true,
     overview:
@@ -91,7 +91,7 @@ export const projects = [
       "A high-performance, event-loop-based HTTP/1.1 server built from scratch on epoll, with zero external async runtime dependencies.",
     image: null,
     stack: ["Rust", "epoll", "HTTP/1.1", "Linux"],
-    github: "https://github.com/yourusername/async-http-server",
+    github: "https://github.com/DanteChoppaxxx/async-http-server",
     demo: null,
     featured: false,
     overview:

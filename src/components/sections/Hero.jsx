@@ -24,7 +24,7 @@ export default function Hero() {
     <section className="flex min-h-[calc(100vh-4rem)] items-center border-b border-border">
       <Container className="grid grid-cols-1 items-center gap-12 py-16 lg:grid-cols-[1.2fr_1fr] lg:gap-8">
         <motion.div initial="hidden" animate="visible" variants={fadeUp} custom={0}>
-          <p className="mb-4 font-mono text-sm text-accent">Hi, I'm Your Name</p>
+          <p className="mb-4 font-mono text-sm text-accent">Hi, I'm Dante Choppa</p>
 
           <h1 className="text-3xl font-semibold leading-tight text-text-primary sm:text-4xl lg:text-5xl">
             Systems &amp; Network Programmer

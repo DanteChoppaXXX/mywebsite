@@ -22,11 +22,6 @@ export default function Footer() {
               GitHub
             </a>
           </li>
-          <li>
-            <a href={SOCIAL_LINKS.linkedin} target="_blank" rel="noreferrer" className="hover:text-text-primary">
-              LinkedIn
-            </a>
-          </li>
         </ul>
       </Container>
     </footer>

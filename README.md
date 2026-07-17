@@ -3,7 +3,7 @@
 ## Stack
 React 19 + Vite, React Router 7, Tailwind CSS v4, Framer Motion, React Icons.
 
-## Step 1: Foundation (this delivery)
+## Step 1: Foundation
 
 ### Folder structure
 ```

@@ -1,4 +1,4 @@
-# Portfolio — Systems & Network Programmer
+# Dante Choppa — Systems & Network Programmer
 
 ## Stack
 React 19 + Vite, React Router 7, Tailwind CSS v4, Framer Motion, React Icons.

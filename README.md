@@ -53,12 +53,6 @@ slugs are readable, stable, and SEO-friendly.
 long-cache headers for hashed static assets. `.firebaserc` has a placeholder
 project ID — swap in your real Firebase project ID before deploying.
 
-### What's intentionally NOT built yet
-Navbar/Footer are functional but unstyled beyond base tokens — they'll get
-their final visual treatment once the Hero and section system exist, so
-spacing and rhythm stay consistent across the whole page rather than being
-guessed at in isolation. All page components are placeholders.
-
 ## Commands
 ```
 npm install
@@ -70,7 +64,3 @@ npm run preview    # preview the production build locally
 firebase deploy
 ```
 
-## Next step
-Step 2: the `ui/` primitive components (Button, Card, Badge, SectionHeading)
-and the finished Hero section — this establishes the visual language
-(spacing scale, hover states, motion timing) that every later section reuses.

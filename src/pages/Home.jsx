@@ -1,6 +1,7 @@
 import Hero from "../components/sections/Hero";
 import About from "../components/sections/About";
 import FeaturedProjects from "../components/sections/FeaturedProjects";
+import Terminal from "../components/sections/Terminal";
 
 export default function Home() {
   return (
@@ -8,7 +9,7 @@ export default function Home() {
       <Hero />
       <About />
       <FeaturedProjects />
-      {/* Skills preview, etc. — added in later steps */}
+      <Terminal />
     </>
   );
 }

@@ -29,12 +29,6 @@ export default function Contact() {
             value={SOCIAL_LINKS.github.replace("https://", "")}
             href={SOCIAL_LINKS.github}
           />
-          <ContactLink
-            icon={FiLinkedin}
-            label="LinkedIn"
-            value={SOCIAL_LINKS.linkedin.replace("https://", "")}
-            href={SOCIAL_LINKS.linkedin}
-          />
           {SOCIAL_LINKS.discord && (
             <ContactLink
               icon={FiMessageCircle}
